@@ -1,4 +1,4 @@
-*** Fundamentos GraphQL
+***Fundamentos GraphQL***
  Baseado em video de ensinamento da RockeatSeat
 
 - Quais problemas GraphQL resolve?
