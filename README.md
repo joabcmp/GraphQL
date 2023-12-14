@@ -1,5 +1,6 @@
-***Fundamentos GraphQL***
- Baseado em video de ensinamento da RockeatSeat
+# Fundamentos GraphQL
+
+Baseado em video de ensinamento da RockeatSeat
 
 - Quais problemas GraphQL resolve?
     - Overfetching
