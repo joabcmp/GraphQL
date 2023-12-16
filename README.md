@@ -1,3 +1,7 @@
+# Fundamentos GraphQL
+
+Baseado em video de ensinamento da RockeatSeat
+
 - Quais problemas GraphQL resolve?
     - Overfetching
         - http://localhost:3000/users
@@ -11,8 +15,7 @@
 
 Dificuldades:
     - Cache
-    - Erros
-    
+    - Erros    
 
 ```gql
 query {
